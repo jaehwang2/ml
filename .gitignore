@@ -1,3 +1,5 @@
 *.meta
 *.index
 model/
+logs/
+logss/
