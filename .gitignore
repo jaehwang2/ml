@@ -4,4 +4,5 @@ model/
 logs/
 logss/
 samples/
-.ipynb*
+.*
+!/.gitignore
